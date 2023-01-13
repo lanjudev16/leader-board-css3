@@ -114,6 +114,10 @@ p.blog-author {
 }
 
 /* course style */
+.latest-container {
+    margin-bottom: 36px;
+}
+
 .courses {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
